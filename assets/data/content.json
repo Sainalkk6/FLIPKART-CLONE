@@ -1,0 +1,139 @@
+{
+    "header":{
+        "image":"assets/img/flipkart-logo.png",
+        "explore":"Explore",
+        "plus":"Plus",
+        "imagePlus":"assets/img/plus_icon.png",
+        "button":"assets/img/search.svg",
+        "items":[
+            "Login",
+            "Become a Seller",
+            "More",
+            "Cart"
+        ],
+        "itmsImage":[
+            "assets/img/left-arrow.svg",
+            "assets/img/cart.svg"
+        ],
+       
+
+        "categories":[
+            "Electronics",
+            "TVs & Appliances",
+            "Men",
+            "Women",
+            "Baby & Kids",
+            "Home & Furniture",
+            "Sports,Books & More",
+            "Flights",
+            "Offer Zone"
+        ]
+    },
+    "aside":{
+        "title":"Categories",
+        "span":"Mobiles & Accessories",
+        "strong":"Mobiles",
+        "image":"assets/img/arrow-grey-left.svg"
+    },
+
+    "priceSection":{
+        "title":"Price",
+        "button":"clear",
+        "blocks":[
+            "height: 21.875px; width: 47.362px;",
+            "height: 24px; width: 47.362px;",
+            "height: 24px; width: 47.362px;",
+            "height: 24px; width: 47.362px;",
+            "height: 18.75px; width: 47.362px;"
+        ],
+        "prices":[
+            "₹10000",
+            "₹15000",
+            "₹20000",
+            "₹30000",
+            "₹30000+"
+        ],
+        "min":[
+            "Min",
+            "₹10000"
+        ],
+        "image":"assets/img/filled-arrow-d.svg"
+    },
+
+    "brandSection":{
+        "title":"Brand",
+        "image":"assets/img/brand-arrow.svg",
+        "button":"Clear all",
+        "buttonIcon":"✕",
+        "count":"0 more",
+        "search":"assets/img/search-icon.svg"
+    },
+
+    "assured":{
+        "span":"?",
+        "image":"assets/img/fassure.png"
+    },
+    "rating":[
+        "4★ & above",
+        "3★ & above"
+    ],
+
+    "gst":{
+        "head":"GST INVOICE AVAILABLE",
+        "image":"assets/img/brand-arrow.svg",
+        "span":"GST Invoice Available"
+    },
+    "ram":[
+        "4 GB",
+        "3 GB",
+        "2 GB",
+        "1GB and below",
+        "8 GB and Above",
+        "6 GB",
+        "6 GB and Above"
+    ],
+
+    "sections":[
+        "internal storage",
+        "battery capacity",
+        "screen size",
+        "primary camera",
+        "secondary camera",
+        "processor brand",
+        "speciality",
+        "resolution type",
+        "operating system",
+        "network type",
+        "sim type",
+        "offers",
+        "features",
+        "type",
+        "number of chores",
+        "availability"
+    ],
+
+    "discount":{
+        "title":"Discount",
+        "image":"assets/img/brand-arrow.svg",
+        "range":[
+            "50% or more",
+            "40% or more",
+            "30% or more",
+            "20% or more",
+            "10% or more"
+        ]
+    },
+    "aboveFooterContent":[
+        "operating system version name",
+        "clock speed"
+    ],
+
+    "footerUpper":{
+        "title":"Need help?",
+        "span":"Help me decide",
+        "image1":"assets/img/help arrow.svg",
+        "image2":"assets/img/buying-guide.png"
+    }
+
+
+}
